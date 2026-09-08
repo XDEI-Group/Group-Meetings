@@ -14,7 +14,7 @@
 | 日期 | 汇报人 | 汇报题目 | PPT | 论文 1 | Code 1 | 论文 2 | Code 2 | 备注 |
 |---|---|---|---|---|---|---|---|---|
 | 2026-XX-XX | 张三 | Paper Title / Topic Title | [PPT](./slides/2026-XX-XX-zhangsan.pdf) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) | |
-| 2026-09-03 | 闫城玮 | VLN-目标点导航 | [PPT](./260903/闫城玮/闫城玮-导航方法.pdf) | [Paper](./260903/闫城玮/2026-arxiv-AgenticNav_zero-shot_vision-and-language_navigation_as_a_tool-calling_harness) | [Code]([https://github.com/xxx/xxx](https://github.com/AgenticNav/mas-llm-robotics)) | [Paper](./260903/闫城玮/2026-arxiv-DRIVE-nav_directional_reasoning_inspection_and_verification_for_efficient_open-vocabulary_navigat) | [Code](https://coolmaoguo.github.io/drive-nav-page/  ) | |
+| 2026-09-03 | 闫城玮 | VLN-目标点导航 | [PPT](./260903/闫城玮/闫城玮-导航方法.pdf) | [Paper](./260903/闫城玮/2026-arxiv-AgenticNav_zero-shot_vision-and-language_navigation_as_a_tool-calling_harness) | [Code]((https://github.com/AgenticNav/mas-llm-robotics)) | [Paper](./260903/闫城玮/2026-arxiv-DRIVE-nav_directional_reasoning_inspection_and_verification_for_efficient_open-vocabulary_navigat) | [Code](https://coolmaoguo.github.io/drive-nav-page/  ) | |
 
 ## 说明
 
