@@ -15,6 +15,7 @@
 |---|---|---|---|---|---|---|---|---|
 | 2026-XX-XX | 张三 | Paper Title / Topic Title | [PPT](./slides/2026-XX-XX-zhangsan.pdf) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) | |
 | 2026-09-03 | 闫城玮 | VLN-目标点导航 | [PPT](./260903/闫城玮/闫城玮-导航方法.pdf) | [Paper](./260903/闫城玮/2026-arxiv-AgenticNav_zero-shot_vision-and-language_navigation_as_a_tool-calling_harness.pdf) | [Code](https://github.com/AgenticNav/mas-llm-robotics) | [Paper](./260903/闫城玮/2026-arxiv-DRIVE-nav_directional_reasoning_inspection_and_verification_for_efficient_open-vocabulary_navigat.pdf) | [Code](https://coolmaoguo.github.io/drive-nav-page/  ) | |
+| 2026-09-03 | 叶思云 | 扰动及安全 | [PPT](./260903/叶思云/2026.9.3-叶思云-扰动及安全.pptx) | [Paper](./260903/叶思云/2026-Arxiv-HomeGuard_VLM-based_Embodied_Safeguard_for_Identifying_Contextual_Risk_in_Household_Task.pdf) | [Code](https://ursulalujun.github.io/HomeGuard-Homepage/) | [Paper](./260903/叶思云/2026-ICLR-ON_ROBUSTNESS_OF_VISION-LANGUAGE-ACTION_MODEL_AGAINST_MULTI-MODAL_PERTURBATIONS.pdf) | [Code](https://github.com/gakakulicc/RobustVLA) | |
 
 ## 说明
 
