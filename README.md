@@ -11,11 +11,10 @@
 
 ## 2026
 
-| 日期 | 汇报人 | 汇报题目 | PPT | 论文链接 | 代码链接 | 备注 |
-|---|---|---|---|---|---|---|
-| 2026-XX-XX | 张三 | Paper Title / Topic Title | [PPT](./slides/2026-XX-XX-zhangsan.pdf) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) |  |
-| 2026-09-03 | 闫城玮 | VLN-目标点导航 | [PPT](./260903/闫城玮-导航方法.pdf) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) |  |
----
+| 日期 | 汇报人 | 汇报题目 | PPT | 论文 1 | Code 1 | 论文 2 | Code 2 | 备注 |
+|---|---|---|---|---|---|---|---|---|
+| 2026-XX-XX | 张三 | Paper Title / Topic Title | [PPT](./slides/2026-XX-XX-zhangsan.pdf) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) | |
+| 2026-09-03 | 闫城玮 | VLN-目标点导航 | [PPT](./260903/闫城玮-导航方法.pdf) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) | [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx) | |
 
 ## 说明
 
